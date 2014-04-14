@@ -1,0 +1,22 @@
+html,
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+   background:#000;
+}
+#body {
+   padding:10px;
+   padding-bottom:60px;
+}
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;
+   background:#35342f;
+}
+p.footerText {
+   color:#89867b;
+   text-align: center;
+}
